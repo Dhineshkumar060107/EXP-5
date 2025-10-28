@@ -31,6 +31,7 @@ OBSERVATIONS:
 ![exp5_2](https://github.com/user-attachments/assets/57c50ede-44a8-4d86-bec2-d2b758db8f61)
 
 
+
 ![exp5_4](https://github.com/user-attachments/assets/adcf05ac-ed9b-4291-96ed-f4639ed62c76)
 
 
@@ -38,6 +39,7 @@ OBSERVATIONS:
 REGULATION CHARACTERISTICS:
 
 ![exp5_1](https://github.com/user-attachments/assets/313f9cb0-c8c5-4b9a-8866-7f54d6bd416b)
+
 
 <img width="722" height="1280" alt="image" src="https://github.com/user-attachments/assets/72c498f8-c0a9-4e6e-9d82-4d25380f1bdd" />
 
@@ -47,6 +49,11 @@ REGULATION CHARACTERISTICS:
 V-I & REGULATION CHARACTERISTICS:
 
 <img width="1280" height="405" alt="image" src="https://github.com/user-attachments/assets/d5178bf6-bbf8-4e0e-967b-925aeca1d4d8" />
+
+
+
+
+
 
 <img width="728" height="266" alt="image" src="https://github.com/user-attachments/assets/2593f7ce-a9a0-4d58-8fba-4071c7eca3c4" />
 
